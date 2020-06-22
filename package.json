@@ -6,7 +6,7 @@
   "author": "Yu Watanabe <yunabe.public@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "zeromq": "^5.1.1"
+    "zeromq": "5.2.0"
   },
   "scripts": {
     "test": "echo success"
